@@ -1,5 +1,5 @@
 
-package com.gsy.syutils;
+package com.gsy.gsyutils;
 
 import android.text.TextUtils;
 import android.util.Log;
@@ -27,6 +27,10 @@ import java.util.Locale;
 
 public class StringUtil {
 
+
+    public static void haHa(Double value) {
+
+    }
 
     public static String getDoubleTwo(Double value) {
         if (value == 0) {
@@ -159,8 +163,6 @@ public class StringUtil {
         }
 
     }
-
-
 
     public static String changeDataSecond(String date) {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");

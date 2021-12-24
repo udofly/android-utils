@@ -1,4 +1,4 @@
-package com.gsy.syutils;
+package com.gsy.gsyutils;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.gsy.syutils.test", appContext.getPackageName());
+        assertEquals("com.gsy.gsyutils.test", appContext.getPackageName());
     }
 }

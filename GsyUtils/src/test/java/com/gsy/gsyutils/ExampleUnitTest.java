@@ -1,4 +1,4 @@
-package com.gsy.syutils;
+package com.gsy.gsyutils;
 
 import org.junit.Test;
 

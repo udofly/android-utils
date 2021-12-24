@@ -1,6 +1,13 @@
 plugins {
     id 'com.android.application'
+//    id 'maven-publish'
 }
+
+//task generateSourcesJar(type: Jar){
+//        from android.sourceSets.main.java.srcDirs
+//        classifier 'sources'
+//   }
+
 
 android {
     compileSdkVersion 31
