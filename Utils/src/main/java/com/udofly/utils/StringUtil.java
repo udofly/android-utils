@@ -1,5 +1,5 @@
 
-package com.gsy.gsyutils;
+package com.udofly.utils;
 
 import android.text.TextUtils;
 import android.util.Log;
